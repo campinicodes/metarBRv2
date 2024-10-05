@@ -1,0 +1,14 @@
+C:\Users\Alexandre\source\repos\myMetarAPP\bin\Debug\net8.0\myMetarAPP.exe
+C:\Users\Alexandre\source\repos\myMetarAPP\bin\Debug\net8.0\myMetarAPP.deps.json
+C:\Users\Alexandre\source\repos\myMetarAPP\bin\Debug\net8.0\myMetarAPP.runtimeconfig.json
+C:\Users\Alexandre\source\repos\myMetarAPP\bin\Debug\net8.0\myMetarAPP.dll
+C:\Users\Alexandre\source\repos\myMetarAPP\bin\Debug\net8.0\myMetarAPP.pdb
+C:\Users\Alexandre\source\repos\myMetarAPP\obj\Debug\net8.0\myMetarAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre\source\repos\myMetarAPP\obj\Debug\net8.0\myMetarAPP.AssemblyInfoInputs.cache
+C:\Users\Alexandre\source\repos\myMetarAPP\obj\Debug\net8.0\myMetarAPP.AssemblyInfo.cs
+C:\Users\Alexandre\source\repos\myMetarAPP\obj\Debug\net8.0\myMetarAPP.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\source\repos\myMetarAPP\obj\Debug\net8.0\myMetarAPP.dll
+C:\Users\Alexandre\source\repos\myMetarAPP\obj\Debug\net8.0\refint\myMetarAPP.dll
+C:\Users\Alexandre\source\repos\myMetarAPP\obj\Debug\net8.0\myMetarAPP.pdb
+C:\Users\Alexandre\source\repos\myMetarAPP\obj\Debug\net8.0\myMetarAPP.genruntimeconfig.cache
+C:\Users\Alexandre\source\repos\myMetarAPP\obj\Debug\net8.0\ref\myMetarAPP.dll
